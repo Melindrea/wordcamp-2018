@@ -1,0 +1,9 @@
+.wp-block-qala-cats {
+  text-align: center; }
+  .wp-block-qala-cats img {
+    max-width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 rgba(0, 128, 0, 0.4);
+    animation: pulse 2s infinite; }
+
+/*# sourceMappingURL=editor.css.map */
